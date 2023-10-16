@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Over het project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Autimatisch/Autimatisch-Audio-system)
 
 Bij manege beukers werd gebruik gemaakt van een ingewikkeld muziek programma waar bijna niemand verstand van had. Omdat dit natuurlijk niet gebruiksvriendelijk is heb ik dit nieuwe systeem ontwikkeld wat extra simpel is in het gebruik. Zo kan iedereen de muziek aanzetten en bedienen.
 
@@ -72,7 +72,7 @@ We raden aan om na het installeren, op instellingen te klikken en het programma 
 - [ ] doorklikbare handleidingen
 
 
-Bekijk de [open issues](https://github.com/github_username/repo_name/issues) voor een volledige lijst van ideeen (en problemen)
+Bekijk de [open issues](https://github.com/Autimatisch/Autimatisch-Audio-system/issues) voor een volledige lijst van ideeen (en problemen)
 
 
 
