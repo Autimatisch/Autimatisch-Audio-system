@@ -1,22 +1,23 @@
 ---
 name: "Bug report \U0001F41E"
-about: Create a bug report
+about: maak een foutmelingsrapport
 labels: bug
 
 ---
 
-## Describe the bug
-A clear and concise description of what the bug is.
+## Omschrijf de fout(melding)
 
-### Steps to reproduce
-Steps to reproduce the behavior.
 
-### Expected behavior
-A clear and concise description of what you expected to happen.
 
-### Environment
- - OS: [e.g. Arch Linux]
- - Other details that you think may affect.
 
-### Additional context
-Add any other context about the problem here.
+### Hoe onststond deze foutmelding?
+
+
+
+
+### Op welk scherm was u toen de fout voorkwam
+(Bijvoorbeeld het start scherm of indoor beukers scherm)
+
+
+
+### Overige toevoegingen

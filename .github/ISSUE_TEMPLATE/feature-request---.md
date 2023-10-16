@@ -1,15 +1,21 @@
 ---
-name: "Feature request \U0001F680"
-about: Suggest an idea
-labels: enhancement
+name: "Functieverzoek \U0001F680"
+about: Geef suggesties om toe te voegen aan het systeem
+labels: Functieverzoek
 
 ---
 
-## Summary
-Brief explanation of the feature.
+## omschrijf uw idee
 
-### Basic example
-Include a basic example or links here.
 
-### Motivation
-Why are we doing this? What use cases does it support? What is the expected outcome?
+
+
+### geef een voorbeeld
+Bijvoorbeeld een foto, link of omschrijving
+
+
+
+### Motivatie
+
+
+
