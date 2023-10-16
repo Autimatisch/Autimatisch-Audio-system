@@ -15,16 +15,14 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Autimatisch Audio system</h3>
 
   <p align="center">
-    project_description
+    Het audiosysteem van Autimatisch - ontwikkeld voor Manege Beukers
     <br />
     <a href="https://github.com/Autimatisch/Autimatisch-Audio-system"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system">View Demo</a>
-    ·
     <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/issues">Report Bug</a>
     ·
     <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/issues">Request Feature</a>
