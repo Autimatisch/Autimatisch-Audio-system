@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+# readme-top
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -20,23 +20,23 @@
   <p align="center">
     Het audiosysteem van Autimatisch - ontwikkeld voor Manege Beukers
     <br />
-    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system"><strong>Wiki & handleidingen »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/issues">Report Bug</a>
+    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/issues">Fout melden</a>
     ·
-    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/issues">Request Feature</a>
+    <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/issues">Idee geven</a>
   </p>
 </div>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Over het project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Bij manege beukers werd gebruik gemaakt van een ingewikkeld muziek programma waar bijna niemand verstand van had. Omdat dit natuurlijk niet gebruiksvriendelijk is heb ik dit nieuwe systeem ontwikkeld wat extra simpel is in het gebruik. Zo kan iedereen de muziek aanzetten en bedienen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
