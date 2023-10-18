@@ -81,5 +81,5 @@ Bekijk de [open issues](https://github.com/Autimatisch/Autimatisch-Audio-system/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-url]: https://github.com/github_username/repo_name/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/device.jpg
 
