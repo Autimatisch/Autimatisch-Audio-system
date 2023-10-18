@@ -52,7 +52,7 @@ USB stick (8gb of meer)
 een laptop met windows 10 of hoger
 rufus [https://rufus.ie/nl/](Downloaden)
 
-### Installation
+### Installatie
 (Technische kennis is vereist.)
 
 1. Download de ISO vanaf de [https://github.com/Autimatisch/Autimatisch-Audio-system/releases](releases) pagina 
