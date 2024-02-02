@@ -74,7 +74,7 @@ We raden aan om na het installeren, op instellingen te klikken en het programma 
 - [ ] doorklikbare handleidingen
 
 **Klaar/toegevoegd**
-- [ ] <a href="[https://github.com/Autimatisch/Autimatisch-Audio-system/issues](https://github.com/Autimatisch/Autimatisch-Audio-system/issues](https://github.com/Autimatisch/Autimatisch-Audio-system/blob/master/images/instellingen.png)">instellingen/beheer menu</a>
+- [ ] <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/blob/master/images/instellingen.png">instellingen/beheer menu</a>
 
 
 Bekijk de [open issues](https://github.com/Autimatisch/Autimatisch-Audio-system/issues) voor een volledige lijst van ideeen (en problemen)
