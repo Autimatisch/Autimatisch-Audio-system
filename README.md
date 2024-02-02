@@ -68,10 +68,12 @@ We raden aan om na het installeren, op instellingen te klikken en het programma 
 
 
 <!-- ROADMAP -->
-## Ideeen die we gaan toevoegen
+## Ideeen om toe te voegen
 
 - [ ] Detectie of de geluidsinstallatie is aangesloten
 - [ ] doorklikbare handleidingen
+- [ ] beheeromgeving beukers radio
+- [ ] instream functionaliteit -> bijvoorbeeld spotify naar de laptop kunnen streamen (laptop moet zich voordoen als chromecast)
 
 **Klaar/toegevoegd**
 - [ ] <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/blob/master/images/instellingen.png">instellingen/beheer menu</a>
