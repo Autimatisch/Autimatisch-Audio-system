@@ -51,7 +51,7 @@ Dit audio systeem is niet openbaar te downloaden. Neem voor meer informatie en d
 
 Microsoft Surface go 1<br>
 USB stick (8gb of meer)<br>
-rufus [https://rufus.ie/nl/](Downloaden)<br>
+rufus<br>
 
 ### Installatie
 (Technische kennis is vereist.)
