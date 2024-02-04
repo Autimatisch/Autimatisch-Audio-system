@@ -45,7 +45,7 @@ Bij manege beukers werd gebruik gemaakt van een ingewikkeld muziek programma waa
 <!-- GETTING STARTED -->
 ## Installeren
 
-Er komt binnenkort een iso uit om het audio systeem op een apparaat te installeren. 
+Dit audio systeem is niet openbaar te downloaden. Neem voor meer informatie en de eventuele mogelijkheden contact met ons op via onze website, <a href="https://autimatisch.nl/contact">autimatisch.nl/contact</a>
 
 ### vereisten
 
