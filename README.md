@@ -49,10 +49,9 @@ Dit audio systeem is niet openbaar te downloaden. Neem voor meer informatie en d
 
 ### vereisten
 
-Microsoft Surface go
-USB stick (8gb of meer)
-een laptop met windows 10 of hoger
-rufus [https://rufus.ie/nl/](Downloaden)
+Microsoft Surface go 1<br>
+USB stick (8gb of meer)<br>
+rufus [https://rufus.ie/nl/](Downloaden)<br>
 
 ### Installatie
 (Technische kennis is vereist.)
