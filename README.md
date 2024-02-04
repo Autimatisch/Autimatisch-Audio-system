@@ -75,7 +75,6 @@ We raden aan om na het installeren, op instellingen te klikken en het programma 
 - [ ] instream functionaliteit -> bijvoorbeeld spotify naar de laptop kunnen streamen (laptop moet zich voordoen als chromecast)
 - [ ] Verbeterde wifi instellingen (keuzelijst met wifi punten ipv windows settings openen)
 - [ ] verbeterde functionaliteit van het laden van de windows personal config (thema-achtergrondkleur)
-- [ ] betere batterij indicator met percentage weergaven
 - [ ] interface voor de handleidingen (is nu een winexplorer folder)
 - [ ] Meer build-in applicaties (youtube, apple music, etc)
 
@@ -83,6 +82,7 @@ We raden aan om na het installeren, op instellingen te klikken en het programma 
 **Klaar/toegevoegd**
 - [ ] <a href="https://github.com/Autimatisch/Autimatisch-Audio-system/blob/master/images/instellingen.png">instellingen/beheer menu</a>
 - [ ] Beukers Radio ontvanger (app op startscherm)
+- [ ] Update checker, laat zien welke versie is geinstalleerd en wat de meest recent beschikbare versie is
 
 
 **Verwijderd/gecanceld**
@@ -90,18 +90,3 @@ We raden aan om na het installeren, op instellingen te klikken en het programma 
 - [ ] WindowsUpdateChecker -> uitgeschakeld, zorgde ervoor dat het touchscreen interface vast liep
 - [ ] Hulp op afstand knop -> werd gebruikt om windows quick assist te openen. is vervangen voor software waarbij er direct kan worden meegekeken zonder eerst een code in te moeten vullen.
 - [ ] "Kur op muziek" functie -> had 2 schermen nodig wat niet handig is bij regelmatig gebruik. word vervangen voor alternatief.
-
-
-
-
-Bekijk de [open issues](https://github.com/Autimatisch/Autimatisch-Audio-system/issues) voor een volledige lijst van ideeen (en problemen)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-url]: https://github.com/github_username/repo_name/issues
-[product-screenshot]: images/device.jpg
-
