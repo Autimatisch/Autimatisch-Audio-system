@@ -56,14 +56,11 @@ rufus<br>
 ### Installatie
 (Technische kennis is vereist.)
 
-1. Download de ISO vanaf de [https://github.com/Autimatisch/Autimatisch-Audio-system/releases](releases) pagina 
-2. Download [https://rufus.ie/nl/](rufus)
-3. Installeer de ISO via rufus op een USB stick
-4. Doe de USB in de surface en boot naar de USB.
-5. Volg de installatiestappen van Windows
-
-We raden aan om na het installeren, op instellingen te klikken en het programma "Updates" te openen om te zorgen dat u altijd de nieuwste update heeft.
-
+1. Download [https://rufus.ie/nl/](rufus)
+2. Installeer de ISO via rufus op een USB stick
+3. Doe de USB in de surface en boot naar de USB.
+4. De installatie zal automatisch starten. Let op! Alle bestanden die op de surface staan zullen worden verwijderd.
+5. Na de installatie zal de surface automatisch het audio systeem opstarten.
 
 
 <!-- ROADMAP -->
